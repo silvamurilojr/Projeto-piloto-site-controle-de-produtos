@@ -1,0 +1,22 @@
+table{
+    width: 70%;
+    background-color: #f8f6e7;
+    border:solid #698e4e 2px;
+    padding: 20px;
+
+}
+*{
+    margin: 0 auto
+}
+th{
+    background-color: #013a24;
+    color: white;
+    text-align: center;
+    padding: 5px 10px;
+}
+td{
+    border: solid #698e4e;
+    padding: 5px 10px;
+    text-align: center;
+
+}
